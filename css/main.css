@@ -31,9 +31,9 @@ header {
 .menu-btn {
     display: none;
     padding: 3px;
-    border: 1px solid #727272;
-    border-radius: 3px;
-    font-size: 20px;
+    /*border: 1px solid #727272;
+    border-radius: 3px;*/
+    font-size: 25px;
     margin: 7px 0 0 10px;
 }
 .logo {
@@ -96,6 +96,7 @@ header {
 
 }
 .top-content-block {
+    margin-top: 40px;
     text-align: center;
 }
 .top-content-head {
