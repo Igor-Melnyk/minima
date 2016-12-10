@@ -99,6 +99,9 @@ header {
     margin-top: 40px;
     text-align: center;
 }
+.top-content-block:hover .top-content-head {
+    text-decoration: underline;
+}
 .top-content-head {
     margin: 35px 0;
     display: inline-block;
