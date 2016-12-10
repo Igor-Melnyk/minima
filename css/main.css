@@ -96,6 +96,7 @@ header {
 
 }
 .top-content-block {
+    display: block;
     margin-top: 40px;
     text-align: center;
 }
